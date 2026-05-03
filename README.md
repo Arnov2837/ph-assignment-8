@@ -6,7 +6,7 @@ A modern online book borrowing platform where users can explore, search, and bor
 
 ## 🚀 Live URL
 
-👉
+👉 https://ph-assignment-8-murex.vercel.app/
 
 ---
 
