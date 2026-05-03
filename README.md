@@ -6,7 +6,7 @@ A modern online book borrowing platform where users can explore, search, and bor
 
 ## 🚀 Live URL
 
-👉 https://your-live-link.vercel.app
+👉
 
 ---
 
@@ -76,7 +76,7 @@ NEXT_PUBLIC_AUTH_URL=http://localhost:3000
 ## ⚙️ Installation & Setup
 
 ```
-git clone https://github.com/your-username/mango-library.git
+git clone  https://github.com/Arnov2837/ph-assignment-8
 cd your folder
 npm install
 npm run dev
@@ -105,7 +105,7 @@ Make sure to:
 
 ## 📊 GitHub Commits
 
-✔ 10+ meaningful commits with clear messages
+✔ meaningful commits with clear messages
 
 ---
 

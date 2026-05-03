@@ -117,7 +117,7 @@ export default function Navbar() {
                       className="w-full flex items-center justify-center gap-2 bg-orange-500 text-white py-2 rounded-lg hover:opacity-90 transition"
                     >
                       <FaSignOutAlt />
-                      Logout
+                      LogOut
                     </button>
                   </div>
                 )}
