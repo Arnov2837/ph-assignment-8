@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Mango Library",
+  title: "Mango Book Library",
   description: "Online Book Borrowing Platform",
 };
 
