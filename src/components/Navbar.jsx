@@ -50,7 +50,7 @@ export default function Navbar() {
 
           <Link href="/" className="text-xl font-bold flex items-center gap-2">
             <FaBook className="text-orange-500" />
-            Mango Library
+            Mango Book Library
           </Link>
 
           <div className="hidden md:flex gap-8 items-center">
